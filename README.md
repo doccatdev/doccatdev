@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhamad Yusuf Hidayat</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A 4th year computer science student who is excessively interested in UI/UX and Game Development industry.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=doccatdev&label=Profile%20views&color=0e75b6&style=flat" alt="doccatdev" /> </p>
 
