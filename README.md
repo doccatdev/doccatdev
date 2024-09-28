@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhamad Yusuf Hidayat</h1>
-<h3 align="center">A 4th year computer science student who is excessively interested in UI/UX and Game Development industry.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=doccatdev&label=Profile%20views&color=0e75b6&style=flat" alt="doccatdev" /> </p>
+<h3 align="center">A 4th year computer science student who is excessively interested in UI/UX and Game Development industry. interested in UI/UX and Game Development industry.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=doccatdev" alt="doccatdev" /></a> </p>
 
@@ -22,4 +20,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=doccatdev&show_icons=true&locale=en&layout=compact" alt="doccatdev" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doccatdev&show_icons=true&locale=en" alt="doccatdev" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=doccatdev&" alt="doccatdev" /></p>
