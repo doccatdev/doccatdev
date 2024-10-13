@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhamad Yusuf Hidayat</h1>
 <h3 align="center">A 4th year computer science student who is excessively interested in UI/UX and Game Development industry.</h3>
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **2D Game Development**
 
 - 👨‍💻 All of my projects are available at [https://muhamadyusufhportofolio.netlify.app/](https://muhamadyusufhportofolio.netlify.app/)
 
