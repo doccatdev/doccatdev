@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **2D Game Development using Unity**
 
-- 👨‍💻 All of my projects are available at [https://muhamadyusufhportofolio.netlify.app/](https://muhamadyusufhportofolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://portofoliomuhamadyusufh.netlify.app)
 
 - 📝 I regularly write articles on [https://muhamadyusufh.medium.com/](https://muhamadyusufh.medium.com/)
 
