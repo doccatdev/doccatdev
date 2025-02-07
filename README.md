@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhamad Yusuf Hidayat</h1>
-<h3 align="center">A 4th year computer science student who is excessively interested in UI/UX and Game Development industry.</h3>
+<h3 align="center">A 4th year computer science student</h3>
 
 - 🌱 I’m currently learning **Python**
 
