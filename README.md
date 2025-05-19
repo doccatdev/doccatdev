@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhamad Yusuf Hidayat</h1>
 <h3 align="center">A 4th year computer science student</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning ****
 
 - 👨‍💻 All of my projects are available at https://portofoliomuhamadyusufh.netlify.app/
 
