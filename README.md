@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhamad Yusuf Hidayat</h1>
 <h3 align="center">A 4th year computer science student</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Front End**
 
 - 👨‍💻 All of my projects are available at https://portofoliomuhamadyusufh.netlify.app/
 
-- 📝 I regularly write articles on [https://muhamadyusufh.medium.com/](https://muhamadyusufh.medium.com/)
+- 📝 I regularly write articles on [https://muhamadyusufh.medium.com/](https://bacang.medium.com/)
 
 - 📫 How to reach me **https://www.linkedin.com/in/muhamad-yusuf-hidayat/**
 
