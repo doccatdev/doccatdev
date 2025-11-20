@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhamad Yusuf Hidayat</h1>
-<h3 align="center">A 4th year Informatics Engineering student</h3>
+<h3 align="center"></h3>
 
 - 🌱 I’m currently learning **Front End & Bug Bounty**
 
